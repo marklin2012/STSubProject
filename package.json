@@ -1,0 +1,22 @@
+{
+  "name": "stsubproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://marklin2012@github.com/marklin2012/STSubProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marklin2012/STSubProject/issues"
+  },
+  "homepage": "https://github.com/marklin2012/STSubProject#readme",
+  "dependencies": {
+    "koa": "^2.5.3"
+  }
+}
