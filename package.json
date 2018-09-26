@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://marklin2012@github.com/marklin2012/STSubProject.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "marklin",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/marklin2012/STSubProject/issues"
   },
